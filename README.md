@@ -15,7 +15,7 @@ Entrenar y evaluar experimentalmente modelos de clasificación binaria (Regresi�
 - Procedencia: dataset parametrizado a partir de fuentes públicas y verificables sobre Explomin del Perú S.A.C. (ver informe, sección 16.1).
 
 ## 4. Cómo obtener los datos
-El archivo `explomin_dataset.csv` ya está incluido en `data/`. No requiere descarga externa.
+El archivo `explomin_dataset.csv` ya está incluido. No requiere descarga externa.
 
 ## 5. Cómo ejecutar el código
 1. Abrir `notebooks/Colab.ipynb` en Google Colab.
